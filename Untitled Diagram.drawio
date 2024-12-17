@@ -48,6 +48,42 @@
         <mxCell id="lDDxvoh7suUxgxob6qnk-13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="440" width="462.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="lDDxvoh7suUxgxob6qnk-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lDDxvoh7suUxgxob6qnk-14" target="lDDxvoh7suUxgxob6qnk-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDDxvoh7suUxgxob6qnk-14" value="Search By Emp&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lDDxvoh7suUxgxob6qnk-15" value="Search by Date" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lDDxvoh7suUxgxob6qnk-16" value="List of all time entry for a day" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lDDxvoh7suUxgxob6qnk-19" value="Weekly Top performer list" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lDDxvoh7suUxgxob6qnk-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="480" as="sourcePoint" />
+            <mxPoint x="370" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lDDxvoh7suUxgxob6qnk-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="529.5" y="480" as="sourcePoint" />
+            <mxPoint x="529.5" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lDDxvoh7suUxgxob6qnk-24" value="List of time entry of Specific emp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="555" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="lDDxvoh7suUxgxob6qnk-26" value="List of all emp of Specific date" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="555" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="lDDxvoh7suUxgxob6qnk-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.433;entryY=0.089;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lDDxvoh7suUxgxob6qnk-15" target="lDDxvoh7suUxgxob6qnk-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
